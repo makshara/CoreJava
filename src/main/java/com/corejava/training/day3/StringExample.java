@@ -4,6 +4,8 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
+import com.corejava.training.day4.AccesModifiersExample;
+
 public class StringExample {
 	
 	public static void main(String[] args) {
@@ -44,6 +46,12 @@ public class StringExample {
 		System.out.println(s5);
 		System.out.println(dt);
 		System.out.println(c.getWeekYear());
+		
+		AccesModifiersExample ame =  new AccesModifiersExample();
+		ame.protectName2="1";
+		ame.publicName="2";
+		
+		
 	}
 
 }
