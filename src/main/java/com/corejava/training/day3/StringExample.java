@@ -48,7 +48,7 @@ public class StringExample {
 		System.out.println(c.getWeekYear());
 		
 		AccesModifiersExample ame =  new AccesModifiersExample();
-		ame.protectName2="1";
+		//ame.protectName2="1";
 		ame.publicName="2";
 		
 		
