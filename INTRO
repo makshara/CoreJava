@@ -1,0 +1,60 @@
+------------------------------------PROJECT------------------------
+The Federal Long term care Insurance program where care is provided as an Insurance
+to the Long term care partners(LTCP) who are unable to perform their day-to-day activities due to old-age, disability, chronic diseases or any other impairment.
+It is meant as a long-term-care, and not as a cure. This is applicable all the Federal Employees, annuitants,current spouse, adult children, parents, in-laws and 
+also to the retirees.
+-------------------------------------
+1) Tell me about yourself?
+
+Ans:- My Name is Akshara . I have completed my Masters in Computer Science from Lamar University.
+* I have around 3+ years of experience with complete Software Development Life Cycle applications including requirement analysis, design, and implementation and testing with emphasis on Object Oriented, Java/J2EE and Client Server technologies. 
+
+* I've worked with Infosys, where I have worked on Federal Long term care Insurance program where care is provided as an Insurance
+to the Long term care partners(LTCP) who are unable to perform their day-to-day activities due to old-age, disability, chronic diseases or any other impairment.
+It is meant as a long-term-care, and not as a cure. This is applicable all the Federal Employees, annuitants,current spouse, adult children, parents, in-laws and 
+also to the retirees.
+
+
+* There I've worked as a Full Stack Developer and my contribution to this project was 80% on the front end and 20% on back end. 
+->The front end is built using angular,html, css, angular-material,bootstrap, SASS and 
+->back end is built on java , oracle database, spring boot and pivotal cloud.
+->I've 
+Created autosys jobs using spring boot and Java for loading the xlsx file from network drive and store the data to the database.
+->I've Developed API layer, Service Layer using spring boot and Java 8 for getting needed 
+response to be consumed from UI 
+->I've Written unit test cases using Junit, mockito for Java components and used jasmine and 
+karma for angular components to achieve required code coverage.
+
+
+* used agile methodologies. 
+* hibernate, 
+-----------------------------------------------------------------------
+2)What's the toughest challenge u have faced? (how well do you prioritize?)
+
+Tough challenges usually involve large, complex, interconnected problems that need to be broken down and solved one at a 
+time – in a particular order!
+
+Ans:- When my team lead(TL) asked me to support another team which had a different technology stack which I hadn't worked on till now , while I was already working on the current project, it was challenging for me to learn the new technology stack and understand the new architecture of the project . I have to request confluence documentation , architecture diagram and learn the basics of the new technology stack to pick up the tasks which were assigned to me. Even though it's not an easy task for me to work parallel on 2 projects at a time, I have to prioritize the tasks on both the projects and deliver accordingly.
+----------------------------------------------------------------------------------------
+3)Tell me about a time you had to deliver disappointing news (are you proactive?)
+Think about it – what happens when you tell your boss that something bad happened?  Assuming you have or had a good boss, their reply is usually “well, how do we fix it?” or even “great, have you fixed it already?
+
+Ans:-During one of the Application releases, for one of the batch applications which reads the excel file from a network drive and exports the data to the database tables. The batch application retrieves the network drive path from a cloud project and when we try to call the API from UI , we are not able to read the data and then the application cannot be operational. I have communicated this scenario to my manager whenever we are not able to see the data in UI .As nothing can be shown in UI , it is considered as a release failure. I had to parallel work on debugging the issue and later we found that the cloud property which stored file path got appended with spaces at the end and we were able to fix it by correcting the issue.
+
+-------------------------------------------------------------------------------------------
+4) Tell me about a time you faced conflict in a team
+This question asks about your people skills.  Essentially, how good are you at empathizing with people, identifying potential problems, and bringing them to a resolution.
+
+A classic mistake here where answering this question jumps to something like “I just fired that person”.
+
+While that may be true and necessary, jumping straight to that conclusion won’t get you far with your Talview. Explain the process that you went through until you reached that point.
+
+Ans:-In my previous project , I was involved in working on a Proof of Concept with another team member. The requirement was about the improvement of the performance of the API`s in the application. The other team members who also worked on the team did not agree with the approach I followed to improve the performance . I have to do the comparision of the two approaches , document the pros and cons of the approaches , time taken to provide the response . I showed the confluence page where I documented these metrics and finally he agreed with the approach with some modifications to perform better.
+-------------------------------------------------------------------------------------------------------------------
+5) Tell me about a time you had to explain something complex (This question tests your ability to summarize a complex issue into a simple but powerful message.)
+
+Ans:-I had a situation when I had to explain to a Business Analyst a technical problem which occurred when developing a story. The problem was a CORS Error which was encountered while the UI application is trying to call the backend application . I have to provide a lot of background information about how browser sends and authenticates a request by showing examples of application flow and various architecture diagrams.
+-----------------------------------------------------------------------------------------
+6) Tell us something that is not on your CV
+Ans:- Sure , I can say the one thing which is not listed in my project is the ability to learn new technologies based on the project requirement. My resume may have some technologies which I learnt while working on the projects, so I would like to gradually learn new technologies whenever I get a chance and also have the ability to step up whenever any need comes to the project requirements. For example, in my previous project when the automation testing team member was not available , I also contributed to the automation code to meet the project deadlines on time.
+----------------------------------------------------------------------------------------------
